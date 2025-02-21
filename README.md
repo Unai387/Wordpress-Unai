@@ -1,1 +1,3 @@
-# Wordpress-Unai
+# Wordpress
+## Plugins
+### Editor clásico
